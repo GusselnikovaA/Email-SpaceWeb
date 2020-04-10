@@ -2,7 +2,7 @@
 
 ###  Чтобы развернуть проект необходимо:
 ```sh
-$ git clone https://github.com/GusselnikovaA/WS-chat.git
+$ git clone https://github.com/GusselnikovaA/Email-SpaceWeb.git
 $ npm i
 ```
 
