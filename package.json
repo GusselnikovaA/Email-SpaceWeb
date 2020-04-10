@@ -1,0 +1,24 @@
+{
+  "name": "Email-SpaceWeb",
+  "version": "1.0.0",
+  "description": "Тестовое для SpaceWeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GusselnikovaA/Email-SpaceWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GusselnikovaA/Email-SpaceWeb/issues"
+  },
+  "homepage": "https://github.com/GusselnikovaA/Email-SpaceWeb#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
